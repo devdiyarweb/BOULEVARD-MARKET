@@ -46,11 +46,11 @@ nav{
 }
 
 .header-center{
-    background: url(img/.png)  no-repeat center/cover;
+    background: url(img/header_img.png)  no-repeat center/cover;
     height: 100vh;
    display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: center;    
    
 }
 
